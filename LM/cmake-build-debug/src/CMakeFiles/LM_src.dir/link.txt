@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libLM_src.a  CMakeFiles/LM_src.dir/vertex.cpp.obj CMakeFiles/LM_src.dir/edge.cpp.obj CMakeFiles/LM_src.dir/problem.cpp.obj
+C:\MinGW\bin\ranlib.exe libLM_src.a

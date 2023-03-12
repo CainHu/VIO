@@ -1,0 +1,4 @@
+"E:\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\CLionProject\Vio\LM
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/CLionProject/Vio/LM/cmake-build-debug

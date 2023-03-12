@@ -1,0 +1,26 @@
+"E:\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\CLionProject\Vio\CurveFitting_LM\CurveFitting_LM
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at E:/JetBrains/CLion 2020.1/bin/cmake/win/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake:146 (message):
+  Could NOT find OpenMP_C (missing: OpenMP_C_FLAGS OpenMP_C_LIB_NAMES)
+Call Stack (most recent call first):
+  E:/JetBrains/CLion 2020.1/bin/cmake/win/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake:393 (_FPHSA_FAILURE_MESSAGE)
+  E:/JetBrains/CLion 2020.1/bin/cmake/win/share/cmake-3.16/Modules/FindOpenMP.cmake:511 (find_package_handle_standard_args)
+  CMakeLists.txt:16 (FIND_PACKAGE)
+
+
+-- Configuring incomplete, errors occurred!
+See also "F:/CLionProject/Vio/CurveFitting_LM/CurveFitting_LM/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "F:/CLionProject/Vio/CurveFitting_LM/CurveFitting_LM/cmake-build-debug/CMakeFiles/CMakeError.log".
